@@ -1,0 +1,131 @@
+.book{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.home{
+display: flex;
+justify-content: space-around;
+}
+#h1{
+    font-size: 2.5em;
+}
+.life{
+    
+}
+.of{
+background-image: url(/image/bird1-removebg-preview.png);
+background-repeat: no-repeat;
+/* width: 80%; */
+height: 100vh;
+
+}
+#of1{
+    position: relative;
+    top:80px ;
+    left:120px ;
+}
+.lifeOf{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-top: 15%;
+}
+#read{
+    width: 20%;
+    height: 8%;
+}
+.grads{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    /* margin-top: %; */
+}
+.grad1{
+    width: 20%;
+}
+.grad2{
+    width: 20%;
+}
+.grad3{
+    width: 30%;
+}
+#cover1{
+    width: 40%;
+}
+.covers{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin-top: 5%;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+
+}
+.covers::-webkit-scrollbar{
+    display: none;
+}
+#cover2{
+    width: 30%;
+}
+#cover3{
+width: 25%;
+}
+#cover4{
+    width: 40%;
+}
+.cover5{
+    width: 90%;
+}
+.selling{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.selling2{
+margin-left: auto;
+}
+.lady{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.lady1{
+    width: ;
+}
+.lady2{
+
+}
+.lady3{
+
+}
+.lady4{
+
+}
+.budhas{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.budha2{
+   width: 80%; 
+}
+.budha1{
+    width: 80%;
+}
+.budha3{
+    width: 80%;
+}
+.budha4{
+    width: 80%;
+}
+.ladss{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.latest{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.latest1{
+width: 70%;
+}
+.latest2{
+width: 70%;
+}
+.latest3{
+width: 7She thrives working collaboratively with a team, delivering impactful solutions and building products that transform how people learn, work and play0%;
+}
